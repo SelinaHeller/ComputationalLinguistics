@@ -1,2 +1,2 @@
 # ComputationalLinguistics
-This is a repository to learn the content for the Computational Linguistics lecture 
+This is a repository to learn the content of the Computational Linguistics lecture 
